@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CSharp9_Records/bin/Debug
+/CSharp9_Records/.vs/CSharp9_Records/v16/.suo
+/CSharp9_Records/obj/Debug
+/CSharp9_Records/obj
+/src/CSharp9_Records/obj
+/src/CSharp9_Records/bin/Debug/net5.0
